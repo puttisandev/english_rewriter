@@ -12,7 +12,6 @@ Choose from **Academic**, **IELTS**, **Informal**, or define your **Custom Style
 - ⚙️ Powered by OpenAI's GPT-3.5 via LangChain
 - 💡 Built-in Web App with Streamlit
 - 📋 Copy-to-clipboard buttons
-- 🌗 Dark Mode toggle
 - 🖥️ Compare multiple styles side-by-side
 
 ## 🚀 Try It
